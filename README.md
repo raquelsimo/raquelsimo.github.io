@@ -14,6 +14,5 @@ Esta es la tercera unidad del módulo de **Entornos de Desarrollo**. En ella con
 5) Definir, implementar y automatizar tipos de pruebas.						
 6) Identificar los tipos de reportes y documentación de pruebas						
 
-Esta unidad está compartida bajo **licencia Creative Commons BY-SA-NC** y los fuentes del curso los tenéis disponibles en  
-[https://github.com/raquelsimo/ED_UT4/tree/master/FuentesCurso](https://github.com/raquelsimo/ED_UT4/tree/master/FuentesCurso)
+Esta unidad está compartida bajo **licencia Creative Commons BY-SA-NC** 
 
