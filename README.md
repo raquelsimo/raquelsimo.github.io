@@ -1,18 +1,21 @@
-# UT4.- Diseño de Pruebas y Realización de Pruebas
+# Diseño e Implementación de una Solución BI para el Análisis Descriptivo de Datos Sísmicos
 
-***Actualizado - 15/06/2023***
-
-
-Esta es la tercera unidad del módulo de **Entornos de Desarrollo**. En ella conocerás la importancia de la realización de pruebas, durante el proceso de desarrollo de software. Aprenderás los distintos **tipos de pruebas**, y los mecanismos para la elaboración de **casos de prueba**. Asimismo, conocerás las herramientas que incorporan los entornos de desarrollo actuales realización de pruebas de software. Está unidad está pensada para que te centres en la automatización de pruebas para Java, usando Junit. 
+***Actualizado - 15/03/2024***
 
 
-# Objetivos de la unidad
-1) Identificar los distintos tipos de prueba y temporalizarlos dentro del proy. Sw
-2) Identificar técnicas de testing y definir casos de prueba						
-3) Identificar y manejar herramientas para la gestión de pruebas.					
-4) Identificar princpios de calidad según normativa.						
-5) Definir, implementar y automatizar tipos de pruebas.						
-6) Identificar los tipos de reportes y documentación de pruebas						
+ El desarrollo de aplicaciones está evolucionando hacia soluciones **Low-Code**. Se facilita que usuarios avanzados puedan implementar soluciones rápidas y vistosas que ayuden en la toma de decisiones en las lineas de negocio a través del análisis descriptivo de los datos.
 
-Esta unidad está compartida bajo **licencia Creative Commons BY-SA-NC** 
+Pero este proceso no se puede hacer a lo loco, debe cumplir unos estándares de organización y gestión de los datos especificos para que el resultado sea optimo. Este TFG busca el aplicar una metodología clasica, como es el ***Ciclo de Vida de Kimball***, desarrollado en los años 80 a una solución BI utilizando Power BI para su implementación
+
+
+# Objetivos 
+1) Diseñar e implementar una solución utilizando Power BI que permita gestionar los datos recopilados de los últimos seísmos ocurridos a nivel mundial.
+2) Utilizando herramientas y funcionalidades proporcionadas por Power BI, se generará una presentación visual de las estadísticas de seísmos de forma interactiva y personalizable mediante objetos visuales como mapas, gráficos y tablas que permitan a los usuarios explorar y analizar la información de manera eficiente.				
+3) Documentar de manera completa y clara el proceso de desarrollo de la solución identificando metodologías aplicables e incluyendo la configuración de Power BI necesaria para resolver los desafíos enfrentados y las soluciones implementadas.
+			
+ Este trabajo está pensado como guía de aplicación de uan metodología clasica en las nuevas herramientas de desarrollo actuales.
+
+***Enlace a la solución: Terrae Motus, Análisis de datos sísmicos.***
+
+Este trabajo está compartido bajo **licencia Creative Commons BY-SA-NC** 
 
